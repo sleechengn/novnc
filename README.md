@@ -1,4 +1,4 @@
-novnc：将vnc代理为web访问，此为修复光标版本
+novnc：将vnc代理为web访问，此为标准版本
 
 ```
 networks:
